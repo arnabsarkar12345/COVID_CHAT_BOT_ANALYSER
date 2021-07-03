@@ -1,0 +1,10 @@
+body{
+    background : linear-gradient(to top right, #66ff99 0%, #66ffff 100%);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#x {
+    display: flex;
+    flex-direction: row-reverse;
+}
